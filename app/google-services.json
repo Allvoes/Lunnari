@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "81408135494",
+    "firebase_url": "https://lunnari-7ec67.firebaseio.com",
+    "project_id": "lunnari-7ec67",
+    "storage_bucket": "lunnari-7ec67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81408135494:android:83f0adcb0d7896fb",
+        "android_client_info": {
+          "package_name": "com.allvoes.lunnari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81408135494-b102sou5q8riqujh77hj3dbi620iqt4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allvoes.lunnari",
+            "certificate_hash": "358f5190d94c778940e531193885d9d1717ced44"
+          }
+        },
+        {
+          "client_id": "81408135494-p3rhhtjltivh54m62egm7c9uf1ljr9fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbahV_gPFw2I8pojj1zyPhACP83CYuUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81408135494-p3rhhtjltivh54m62egm7c9uf1ljr9fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
