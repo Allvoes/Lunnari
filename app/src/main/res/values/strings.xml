@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Lunnari</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email ID</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+
+    <string name="user_Successfully_added"> User Successfuly added!</string>
+    <string name="user_unable_to_add">User unable to add!</string>
+    <string name="loading">Loading</string>
+    <string name="please_wait">Please wait...</string>
+
+    <string name="font_family_roboto_light">Sans serif-thin</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="logout">Logout</string>
+    <string name="are_you_sure">are you sure?</string>
+    <string name="cancel">Cancel</string>
+
+
+
 </resources>
